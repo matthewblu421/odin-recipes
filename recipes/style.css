@@ -1,0 +1,28 @@
+.header {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:48px;
+    color: white;
+    background-color: black;
+
+
+}
+
+.comment {
+    text-align: left;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    
+}
+
+h4 {
+    font-style:oblique;
+}
+
+ul{
+font-family:  Arial, sans-serif;
+}
+
+ol {
+font-family: Arial, sans-serif;
+}
